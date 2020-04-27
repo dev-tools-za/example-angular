@@ -1,0 +1,4 @@
+:3000 
+root * /site
+file_server
+try_files {path} {path}/index.html index.html
